@@ -1,0 +1,22 @@
+{
+  "name": "asdm",
+  "version": "1.0.0",
+  "description": "ASDM Test Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagrutiIngle/test.git"
+  },
+  "author": "Jagruti Ingle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagrutiIngle/test/issues"
+  },
+  "homepage": "https://github.com/JagrutiIngle/test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
